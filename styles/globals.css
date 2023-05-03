@@ -1,0 +1,5 @@
+/* styles/global.css */
+body {
+  background-image: linear-gradient(135deg, #7F00FF 10%, #E100FF 100%);
+  font-family: 'Roboto', sans-serif;
+}
